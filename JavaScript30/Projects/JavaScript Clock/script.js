@@ -8,8 +8,10 @@ function setDate()
         r=e.getHours(),
         o=r/12*360+a/60*30+90;
 
-   secondHand.style.transform="rotate("+n+"deg)",minuteHand.style.transform="rotate("+s+"deg)",
-   hourHand.style.transform="rotate("+o+"deg)",secondHand.style.transition=90===n?"all 0s":"all 0.5s",
+   secondHand.style.transform="rotate("+n+"deg)",
+   minuteHand.style.transform="rotate("+s+"deg)",
+   hourHand.style.transform="rotate("+o+"deg)",
+   secondHand.style.transition=90===n?"all 0s":"all 0.5s",
    minuteHand.style.transition=90===s?"all 0s":"all 0.5s"
 }
 
