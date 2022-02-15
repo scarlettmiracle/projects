@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc4ce82a-aeb9-4453-be1e-8b8d232e791f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
       <workItem from="1644873087985" duration="203000" />
       <workItem from="1644875015508" duration="768000" />
       <workItem from="1644875807564" duration="192000" />
-      <workItem from="1644943698016" duration="1963000" />
+      <workItem from="1644943698016" duration="2350000" />
     </task>
     <servers />
   </component>
