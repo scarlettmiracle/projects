@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc4ce82a-aeb9-4453-be1e-8b8d232e791f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Clock/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Clock/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="bc4ce82a-aeb9-4453-be1e-8b8d232e791f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,7 @@
       <workItem from="1644872300375" duration="769000" />
       <workItem from="1644873087985" duration="203000" />
       <workItem from="1644875015508" duration="768000" />
-      <workItem from="1644875807564" duration="175000" />
+      <workItem from="1644875807564" duration="192000" />
     </task>
     <servers />
   </component>
