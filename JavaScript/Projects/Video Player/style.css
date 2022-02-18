@@ -104,6 +104,24 @@ body {
   flex-basis: 50%;
 }
 
+.vid-label {
+  background: none;
+  border: 0;
+  line-height: 1;
+  color: white;
+  text-align: center;
+  outline: 0;
+  padding: 0;
+}
+
+.vol {
+  max-width: 30px;
+}
+
+.speed {
+  max-width: 55px;
+}
+
 /* unholy css to style input type="range" */
 
 input[type=range] {
