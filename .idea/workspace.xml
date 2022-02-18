@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc4ce82a-aeb9-4453-be1e-8b8d232e791f" name="Changes" comment="" />
+    <list default="true" id="bc4ce82a-aeb9-4453-be1e-8b8d232e791f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/CSS Variables/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/CSS Variables/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/CSS Variables/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Flex Panels/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Flex Panels/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Flex Panels/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Clock/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Clock/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Clock/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/.idea/01 - JavaScript Drum Kit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/boom.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/clap.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/hihat.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/kick.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/openhat.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/ride.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/snare.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/tink.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/sounds/tom.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/JavaScript Drum Kit/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Video Player/alicewonder.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Video Player/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Video Player/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Video Player/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/CSS Variables/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/CSS Variables/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/CSS Variables/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/Flex Panels/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Clock/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Clock/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Clock/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/.idea/01 - JavaScript Drum Kit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/boom.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/clap.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/hihat.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/kick.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/openhat.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/ride.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/snare.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/tink.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/sounds/tom.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30/Projects/JavaScript Drum Kit/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +112,7 @@
       <workItem from="1644875015508" duration="768000" />
       <workItem from="1644875807564" duration="192000" />
       <workItem from="1644943698016" duration="2658000" />
+      <workItem from="1645196895200" duration="268000" />
     </task>
     <servers />
   </component>
