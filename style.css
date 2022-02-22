@@ -515,7 +515,7 @@ img {
     transition: transform 3s ease, -webkit-transform 3s ease;
 }
 
-#showcase {
+.showcase {
     padding: 10px;
     display: -webkit-box;
     display: -ms-flexbox;
