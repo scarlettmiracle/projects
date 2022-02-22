@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc4ce82a-aeb9-4453-be1e-8b8d232e791f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Colour Flipper/hex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Colour Flipper/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Projects/Colour Flipper/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jsswapper.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,8 @@
       <workItem from="1644875807564" duration="192000" />
       <workItem from="1644943698016" duration="2658000" />
       <workItem from="1645196895200" duration="3561000" />
-      <workItem from="1645504581720" duration="945000" />
+      <workItem from="1645504581720" duration="1266000" />
+      <workItem from="1645506028756" duration="419000" />
     </task>
     <servers />
   </component>
