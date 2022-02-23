@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc4ce82a-aeb9-4453-be1e-8b8d232e791f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/.idea/measurement-conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/area.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/includes/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/length.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/mass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/speed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/temperature.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Measure/volume.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/measure.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +80,7 @@
       <workItem from="1645507437531" duration="681000" />
       <workItem from="1645546549030" duration="212000" />
       <workItem from="1645547234856" duration="41000" />
+      <workItem from="1645633285106" duration="118000" />
     </task>
     <servers />
   </component>
